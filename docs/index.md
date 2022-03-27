@@ -1,64 +1,22 @@
-# Welcome to MkDocs
-ohh year!
+<style>
+@font-face{ 
+	font-family: 'SINUHE'; /* お好きな名前にしましょう */
+	src: url('./SINUHE.eot'); /* IE9以上用 */
+	src: url('./SINUHE.eot?#iefix') format('embedded-opentype'), /* IE8以前用 */
+		url('./SINUHE.woff') format('woff'), /* モダンブラウザ用 */
+		url('./SINUHE.ttf') format('truetype'); /* iOS, Android用 */
+	font-weight: normal; /* 念の為指定しておきます */
+	font-style: normal;
+}
+.hiero {
+	font-family: 'SINUHE';
+	font-size: 40pt;
+}
+</style>
 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-
-
-![svg](svg.svg) svg ![svg](svg.svg) picture in text ![svg](svg.svg) 
-
-picture <img src="svg.svg" width=100 height=32> picture
-
-
-```
-текст подсвечивается в зависимости от написанного
-`text` 
-# тут не действуюет синтаксис мд
-> ewerwerwerwerwer
-terminal out
-
-```
-
-обычный текст `выделенный текст` обычный текст  `выделенный блок`,  
-**жирный**,  
-*курсив*,  
-***жирный курсив***,  
-***`выделенный жирный курсив`***   
-
-> цитата-комментарий
-
-+ пункт 1
-	+ подпункт
-	- пункт 2
-- пункт 2
-* пункт 3
-
-<a href>ссылко</a>  
-[ссылко]()  
-
-> #### The quarterly results look great!
->
-> - Revenue was off the chart.
-> - Profits were higher than ever.
->
->  *Everything* is going according to **plan**.
-
-
-текст
-
-текст
+<p class="hiero">
+        𓂋𓂝𓇳<br>
+        𓈖𓇳<br>
+        𓅱𓃀 𓈖𓇳 𓂋𓂝𓇳 𓅓 𓊪𓏏𓇯ч
+</p>
